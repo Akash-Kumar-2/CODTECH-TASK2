@@ -53,8 +53,9 @@ The objective of this project is to implement a basic authentication system with
     ```
   - **Response**: JSON object with a success message.
   - **Register.html page**
-  - ![Screenshot 2024-08-14 162732](https://github.com/user-attachments/assets/89fb11e8-46f2-4896-bbcf-f190f1dc00f5)
-  - ![Screenshot 2024-08-14 162756](https://github.com/user-attachments/assets/d5442010-154d-468c-bcd3-c7db80c38116)
+  - ![357785993-89fb11e8-46f2-4896-bbcf-f190f1dc00f5](https://github.com/user-attachments/assets/24c8e8cc-15a1-4884-99c9-7f9996871e8a)
+  - ![Screenshot 2024-08-26 201551](https://github.com/user-attachments/assets/adc1b728-7f3b-4486-9318-ecdc07cb8cd6)
+
 
 
 - **POST /api/auth/login**
@@ -73,11 +74,12 @@ The objective of this project is to implement a basic authentication system with
     }
     ```
  - **login.html**
- - ![Screenshot 2024-08-14 162838](https://github.com/user-attachments/assets/a4e227c2-f43f-49b5-b73f-2c771c8f5f6d)
- - ![Screenshot 2024-08-14 162845](https://github.com/user-attachments/assets/0a74b86a-468b-4dd4-8889-2a08006f2616)
+ - ![Screenshot 2024-08-26 201458](https://github.com/user-attachments/assets/3386eb71-5c85-429f-b9cb-034d63904b4c)
+ - ![Screenshot 2024-08-26 201627](https://github.com/user-attachments/assets/318e22ad-fc13-4c84-8950-761b616a50d5)
 - **Mongodb compass output**
 - The user information is stored on the mongodb database.
--  ![Screenshot 2024-08-14 162914](https://github.com/user-attachments/assets/c8ef3cbd-6bb7-49de-b349-06e947e30606)
+-  ![357787050-c8ef3cbd-6bb7-49de-b349-06e947e30606](https://github.com/user-attachments/assets/51b3fe63-e913-4fdd-b5f6-fbbb410cfd94)
+
 
 ## *Project Structure*
 
