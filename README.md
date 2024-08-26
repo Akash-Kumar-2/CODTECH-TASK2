@@ -92,7 +92,4 @@ The objective of this project is to implement a basic authentication system with
   - **authRoutes.js**: Defines authentication-related routes.
   - **userModel.js**: Defines the user schema and model for MongoDB.
 
-- **user-auth/**
-  - **node_modules/**: Directory containing project dependencies.
-  - **package.json**: Project metadata and dependencies.
-  - **package-lock.json**: Dependency versions lock file.
+
